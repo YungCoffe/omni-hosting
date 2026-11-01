@@ -1,0 +1,11 @@
+{
+  "name": "omniroute-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=10000 npx omniroute"
+  },
+  "dependencies": {
+    "omniroute": "latest"
+  }
+}
